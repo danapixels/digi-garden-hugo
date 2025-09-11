@@ -3,7 +3,7 @@ title = 'Chikawa June 2025'
 date = 2025-06-01T09:00:00-07:00
 draft = false
 tags = ['write', 'chiikawa']
-listIcon = "/images/writing.png"
+listIcon = "/writing.png"
 teaser = "June release of Chiikawa to buy"
 +++
 
@@ -15,16 +15,16 @@ I typically get my release information from [chiikawa_goods_](https://www.instag
 
 ## Chiikawa Bakery
 Release date: 06/13
-![Chiikawa Bakery](/images/ChiikawaBakery.png)
+![Chiikawa Bakery](/ChiikawaBakery.png)
 
 ## Wish upon a star.. Chiikawa
 Release date: 06/20
-![Wish upon a star Chiikawa](/images/WishuponastarChiikawa.png)
+![Wish upon a star Chiikawa](/WishuponastarChiikawa.png)
 
 ## Chiikawa x Sanrio
 Release: 06/13
-![Chiikawa x Sanrio](/images/SanrioChiikawa.png)
+![Chiikawa x Sanrio](/SanrioChiikawa.png)
 
 ## Pre-order starts for Chiikawa Halloween set
 Pre-order date: 05/26
-![Halloween Chiikawa](/images/HalloweenChiikawa.png)
+![Halloween Chiikawa](/HalloweenChiikawa.png)

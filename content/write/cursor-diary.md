@@ -3,27 +3,27 @@ title = 'iamafk Diary'
 date = 2025-06-15T09:00:00-07:00
 draft = false
 tags = ['write', 'iamafk.dev', 'development']
-listIcon = "/images/writing.png"
+listIcon = "/writing.png"
 teaser = "Visual updates on user activity and buildings created in June 2025"
 +++
 
-![Launch](/images/launch.png)
+![Launch](/launch.png)
 
 I will be recording the launch of iamafk.dev! Just to make note of the cursors afking on a day-to-day and to see if anything interesting happens.
 
 ## Day 1
 Launch! Did a bunch of testing with Mshj before sending the link to my friends to test.
-![Day 1](/images/day1.gif)
+![Day 1](/day1.gif)
 
 Everyone was really excited and spamming emotes, moving their cursors around wildly. This caused a lot of lag LOL. I asked Cursor to add optimizations for rendering and throttling the furniture since the real-time positions are broadcasted to everyone. I'll need to test this further to see how I can reduce lag for everyone.
 
 Lots of users liked using the plants to either make art or communicate a message. Someone making a dick out of furniture was the last thing on my mind honestly but users really get creative..
 
-![Pride](/images/pride.png)
+![Pride](/pride.png)
 
 ## Day 2
 
-![Cat](/images/cat.gif)
+![Cat](/cat.gif)
 
 
 I thought it was cute that users sitting next to their significant others or friends :D
@@ -35,7 +35,7 @@ Testing with a bunch of users also helped me see a bunch of QOL bugs and a huge 
 Witnessing a win :D I like that everyone will celebrate because I've made it a community event where everyone gets the unlock.
 
 
-![Win](/images/win.gif)
+![Win](/win.gif)
 
 ### User feedback implemented
 - Make afk timer label easier to read (My friend Dev wanted this to be easier to read)
@@ -80,28 +80,28 @@ Witnessing a win :D I like that everyone will celebrate because I've made it a c
 
 ## Day 3
 
-![Andy](/images/andy.gif)
+![Andy](/andy.gif)
 
 
 Again with the art using furniture LOL. Really says a lot about the human condition and needing to communicate in a non-verbal space.
 
-![Andy Building](/images/andybuilding.gif)
+![Andy Building](/andybuilding.gif)
 
 
 
-![Everyone AFK](/images/everyoneafk.gif)
+![Everyone AFK](/everyoneafk.gif)
 
 ## Day 4
 
 Noticed a cool building was made! (I think by Connor). 
 
 
-![Connor](/images/connor.gif)
+![Connor](/connor.gif)
 
 5-6 daily average users :D
 
 
-![Day 3](/images/day3.png)
+![Day 3](/day3.png)
 
 Not a lot of users use the rest of the space on the canvas is what I noticed. I was thinking of creating environments to get users interested in moving beyond. But maybe if there's more users in general, they will be more likely to spread out.
 
@@ -113,13 +113,13 @@ Not much to keep people on since there's only one unlockable right now. This upd
 I have about 4 consistent users without officially launching. When I do the new update I'll ask my friends to get on so I can pressure test the server. Dee won her first gacha win today. 
 
 
-![Po](/images/po.gif)
+![Po](/po.gif)
 
 
 Paul created his first building.
 
 
-![Day 5](/images/day5.gif)
+![Day 5](/day5.gif)
 
 
 Such a bad bug, time accumulation is hard to fix when you don't understand what you're writing LOL. I constantly ask Cursor to double check not sure if I have it right.
@@ -127,33 +127,33 @@ Such a bad bug, time accumulation is hard to fix when you don't understand what 
 ## Day 6
 Not much to report today, everyone afking! Like intended...
 
-![Day 6](/images/day6.gif)
+![Day 6](/day6.gif)
 
 ## Day 7 and beyond
 Last update!!! I added two environments, a snow environment and a beach one. I ended up keeping the beach one. 
 
 
-![Day 7](/images/day7.gif)
+![Day 7](/day7.gif)
 
 
 Animated wins are a hit. People love the gacha-only-accessible hats and furniture that are animated or interactive.
 
 
-![Gacha Wins](/images/gachawins.gif)
+![Gacha Wins](/gachawins.gif)
 
 Someone's cool building of a lifeguard post using the furniture available to them :D
 
 
-![Lifeguard](/images/lifeguard.png)
+![Lifeguard](/lifeguard.png)
 
 My last update until I take a break is adding presets for furniture! If a user built something complex, they take a break, and the server cleans it up then they can place it down. Or if they like someone else's work, they can duplicate it and place it down for their own use!
 
-![Mad at Losing](/images/madatlosing.gif)
+![Mad at Losing](/madatlosing.gif)
 
 
 I noticed what I really liked is feeling like you're with your friends all the time. Sometimes you'll catch your friends out of afk and you can greet them like seeing your friend log on in a classic MMO. 
 
-![Day 8](/images/day8.gif)
+![Day 8](/day8.gif)
 
 
 ## After thoughts

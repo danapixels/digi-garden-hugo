@@ -3,7 +3,7 @@ title = 'iamafk Update'
 date = 2025-07-02T09:00:00-07:00
 draft = false
 tags = ['write', 'iamafk.dev', 'development']
-listIcon = "/images/writing.png"
+listIcon = "/writing.png"
 teaser = "New features coming to iamafk.dev"
 +++
 
