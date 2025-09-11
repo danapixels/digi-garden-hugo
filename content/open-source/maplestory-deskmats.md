@@ -15,18 +15,18 @@ Please ensure to share back to the community if edits are made! Please do not us
 
 
 ## Deskmat designs
-![Boba Colored](/assets/BobaColored.png)
+![Boba Colored](/BobaColored.png)
 
-![Boba Pink](/assets/BobaPink.png)
+![Boba Pink](/BobaPink.png)
 
-![Character Colored](/assets/Charactercolored.png)
+![Character Colored](/Charactercolored.png)
 
-![Character Pink](/assets/CharacterPink.png)
+![Character Pink](/CharacterPink.png)
 
-![Blue Yeti](/assets/BlueYeti.png)
+![Blue Yeti](/BlueYeti.png)
 
 *Below is the .svg version of the Yeti deskmat which is better for printing.*
-![Blue Yeti SVG](/assets/BlueYeti.svg)
+![Blue Yeti SVG](/BlueYeti.svg)
 
 ## Illustrator files
 These do not contain the Yeti version or the wallpaper vectors since these were made specially by request of Redditors.
@@ -42,11 +42,11 @@ These do not contain the Yeti version or the wallpaper vectors since these were 
 ![Character Pink Wallpaper](/CharaterPinkWallpaper.png)
 
 ## Photos of deskmats in use
-![Deskmat Photo 1](/assets/Deskmatphoto1.png)
+![Deskmat Photo 1](/Deskmatphoto1.png)
 
-![Deskmat Photo 3](/assets/Deskmatphoto3.png)
+![Deskmat Photo 3](/Deskmatphoto3.png)
 
-![Deskmat Photo 2](/assets/Deskmatphoto2.png)
+![Deskmat Photo 2](/Deskmatphoto2.png)
 
 ## Deskmat printing information
 ###### Deskmat printer company used:

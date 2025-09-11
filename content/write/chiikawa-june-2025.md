@@ -15,16 +15,16 @@ I typically get my release information from [chiikawa_goods_](https://www.instag
 
 ## Chiikawa Bakery
 Release date: 06/13
-![Chiikawa Bakery](/assets/ChiikawaBakery.png)
+![Chiikawa Bakery](/ChiikawaBakery.png)
 
 ## Wish upon a star.. Chiikawa
 Release date: 06/20
-![Wish upon a star Chiikawa](/assets/WishuponastarChiikawa.png)
+![Wish upon a star Chiikawa](/WishuponastarChiikawa.png)
 
 ## Chiikawa x Sanrio
 Release: 06/13
-![Chiikawa x Sanrio](/assets/SanrioChiikawa.png)
+![Chiikawa x Sanrio](/SanrioChiikawa.png)
 
 ## Pre-order starts for Chiikawa Halloween set
 Pre-order date: 05/26
-![Halloween Chiikawa](/assets/HalloweenChiikawa.png)
+![Halloween Chiikawa](/HalloweenChiikawa.png)
