@@ -19,7 +19,7 @@ Note: This is all coded with AI since I have 0 idea how to program. This will be
 My approach to this is asking AI to generate code one requirement or functionality at a time. This might not be the best approach but it helps me feel confident and catch unintended functionality rather than asking it straight up to create something from scratch.
 
 Goal: A place to put your cursor when you AFK.
-![Promo](/promo.png)
+![Promo](/assets/promo.png)
 
 ---
 ## Phase 1: Function
@@ -38,7 +38,7 @@ Goal: A place to put your cursor when you AFK.
 	- [x] Label for AFK timer  
 
 ### Phase 1 log
-![Transparent Logo](/transparentlogo.png)
+![Transparent Logo](/assets/transparentlogo.png)
 
 
  Clearly this is my pixel style that I like to use LOL so I decided to go with this since it's minimal, easy for me to make, and I can still be creative with constraints without making anything too complex.
@@ -97,15 +97,15 @@ This is where moving to Cursor helped me a lot, there was a lot of complex inter
 - [x] Customize cursor
 	- [x] A few hats
 		- [x] space helmet, beanie, baseball cap, cat ears, sprout, headphones, bunny ears, none slime hat.
-		- ![Hats Sheet](/hatssheet.png)
+		- ![Hats Sheet](/assets/hatssheet.png)
 - [x] UI side panel for customization and furniture
-- ![Side Panel](/sidepanel.png)
+- ![Side Panel](/assets/sidepanel.png)
 - [x] Add furniture
-	- ![Furniture](/furniture.png)
+	- ![Furniture](/assets/furniture.png)
 	- [x] Ability to flip furniture and move up and down z-index
-		- ![Bad UI](/badui.png)
+		- ![Bad UI](/assets/badui.png)
 		- Bad UI decision by me, these two buttons essentially do the same thing... And makes the click target hard to click.
-		- ![New UI](/newUI.png)
+		- ![New UI](/assets/newUI.png)
 		- New UI is much more straight forward.
 	- [x] Chairs
 		- [x] Cursor remains stationary when sitting
