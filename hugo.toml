@@ -1,0 +1,4 @@
+baseURL = 'https://danablog.dev/'
+languageCode = 'en-us'
+title = 'digi garden'
+theme = 'digio-theme'
