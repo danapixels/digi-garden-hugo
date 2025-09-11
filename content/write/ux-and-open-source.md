@@ -3,7 +3,7 @@ title = 'UX & Open source'
 date = 2025-06-02T09:00:00-07:00
 draft = false
 tags = ['write', 'opinions']
-listIcon = "/writing.png"
+listIcon = "/images/writing.png"
 teaser = "My thoughts on why open source is important to the UX/UI community"
 +++
 
