@@ -22,11 +22,11 @@ This is not the first time this has happened. Corporations continually disrespec
 I wonder if there is a possibility to improve legal representation within the open source community to uphold the licenses. Unfortunately, Shopify will probably get away with this because of the lack of knowledge about the open source community and it's effects on the greater whole of engineering. I personally think that involvement in the open source community is a privilege (at this current state in society at least) due to everyone wanting their tech to be accessible or just work because it's just a means to an end. If there is more awareness and knowledge, corporations are less likely to do this or may not consider due to backlash.
 
 # Resources
-- (Joel Drapper's article of RubyGems)[https://joel.drapper.me/p/rubygems-takeover/]
-- (Ellen's account (RubyGems Maintainer))[https://pup-e.com/goodbye-rubygems.pdf]
- - (A board members take on what happened (still vague))[https://apiguy.substack.com/p/a-board-members-perspective-of-the?r=43k3q&utm_medium=ios&triedRedirect=true]
+- [Joel Drapper's article of RubyGems](https://joel.drapper.me/p/rubygems-takeover/)
+- [Ellen's account (RubyGems Maintainer)](https://pup-e.com/goodbye-rubygems.pdf)
+ - [A board members take on what happened (still vague)](https://apiguy.substack.com/p/a-board-members-perspective-of-the?r=43k3q&utm_medium=ios&triedRedirect=true)
 
 # Reddit threads
-- (Ruby Central's Attack on RubyGems)[https://www.reddit.com/r/ruby/comments/1nkzszc/ruby_centrals_attack_on_rubygems/]
-- (Ruby Central executes hostile takeover of the RubyGems Github organisation and code repositories)[https://www.reddit.com/r/programming/comments/1nrbh25/ruby_central_executes_hostile_takeover_of_the/]
-- (A board member's perspective on the RubyGems controversy)[https://www.reddit.com/r/ruby/comments/1nmzqq2/a_board_members_perspective_on_the_rubygems/]
+- [Ruby Central's Attack on RubyGems](https://www.reddit.com/r/ruby/comments/1nkzszc/ruby_centrals_attack_on_rubygems/)
+- [Ruby Central executes hostile takeover of the RubyGems Github organisation and code repositories](https://www.reddit.com/r/programming/comments/1nrbh25/ruby_central_executes_hostile_takeover_of_the/)
+- [A board member's perspective on the RubyGems controversy](https://www.reddit.com/r/ruby/comments/1nmzqq2/a_board_members_perspective_on_the_rubygems/)
