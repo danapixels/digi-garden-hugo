@@ -5,8 +5,8 @@ externalLinks = [
   { title = "Kvantum Manger UX Suggestions", url = "https://github.com/tsujan/Kvantum/issues/1071", date = "2025-05-09", icon = "/writing.png", teaser = "Reimagining the UX flow for a tool to customize your GUI" },
   { title = "AI Runner Chat Suggestions", url = "https://github.com/orgs/Capsize-Games/discussions/1677", date = "2025-05-31", icon = "/writing.png", teaser = "Small UX iterations and UI suggestions for a way to run AI locally" },
   { title = "UX Concept Library", url = "https://www.figma.com/design/LMUzSVdX8NxnsdiZbAgAAv/Personal-UX-Concept-Library?node-id=1-2&p=f&t=MIkMfLogZuyaKP9E-0", date = "2025-05-31", icon = "/contribute.png", teaser = "A small tool kit for other UI/UX designers to help contribute to open source projects" },
-  { title = "AI Runner Hover State Suggestion", url = "https://github.com/orgs/Capsize-Games/discussions/1762", date = "2025-07-24", icon = "/contribute.png", teaser = "Suggestion for a different hover state for local AI runner" }
+  { title = "AI Runner Hover State Suggestion", url = "https://github.com/orgs/Capsize-Games/discussions/1762", date = "2025-07-24", icon = "/contribute.png", teaser = "Suggestion for a different hover state for local AI runner" },
   { title = "Gifcap.dev onboarding illustration", url = "https://github.com/joaomoreno/gifcap/pull/103", date = "2025-10-08", icon = "/contribute.png", teaser = "A way to easily understand Gifcap.dev through an image" }
-    { title = "My own Hugo template", url = "https://github.com/danapixels/digio-theme", date = "2025-09-28", icon = "/contribute.png", teaser = "My pixel blog for anyone to use using Hugo" }
+    { title = "My own Hugo template", url = "https://github.com/danapixels/digio-theme", date = "2025-09-28", icon = "/contribute.png", teaser = "My pixel blog for anyone to use using Hugo" },
 ]
 +++
