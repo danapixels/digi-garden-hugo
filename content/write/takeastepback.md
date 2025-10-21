@@ -29,7 +29,9 @@ Some of it bothers me because it's superficial at most such as:
 - Can this product can make a high fidelity prototype or mock for me? (AKA can it do my job better than me?)
 - As designers, can I find a way to coexist with AI?
 - Can I leverage this into my current workflow to make me a better designer?
-and all these other topics I'm sure you're familiar with. But what are the real implications of AI looking through the lens of a 5, 10, or 50 year plan? We all know that AI is replacing jobs, stealing artist's work, and creating fear of future for many but all I have been seeing are designers working with the cards in front of them and not with the cards still in the deck. 
+
+
+and all these other topics I'm sure you're familiar with. But what are the real implications of AI looking through the lens of a 5, 10, 50, or 100 year plan? We all know that AI is replacing jobs, stealing artist's work, and creating fear of future for many but all I have been seeing are designers working with the cards in front of them and not thinking about the cards still in the deck. 
 
 
 
@@ -37,6 +39,8 @@ and all these other topics I'm sure you're familiar with. But what are the real 
 ![You vs AI](/ai3.png)
 ## Possible impending future: Super intelligence
 The fear is misplaced. AI is a tool for us to use as of right now in its current state, not to replace us. AI super intelligence is what will replace all of us, not just designers. It goes beyond the "event horizon" where something is so mystified beyond our understanding we can no longer predict the future. The gap between us and super intelligence is like us and cats. So what does this mean? As easily as it can reply a "hello" to you, it can also think of a million ways replace humans or kill humans in ways we cannot even conceptualize because again, the gap between us and super intelligence is humans and cats. This is extremely dangerous.
+
+Although, I don't know if this is the end state for us. I think there will be some kind of middle ground for us not a completely utopian future or dystopian.
 
 
 
@@ -61,13 +65,15 @@ At the end of the day, everyone needs to work to put money on the table. There w
 
 
 ### Open-source AI
-Deepseek was a big win for the open source community. As long as there is no risk to be closed source, we should FULLY support open source LLMs rather than closed source ones. Closed source AI is DANGEROUS to everyone. Only the few colossi in tech have control of the current AI and this puts power in a small condensed space with little say for change from anyone. What do you think they're doing with our data? The large populace has zero say in how AI is developed, coded, engineered, and designed. It's only informed and controlled by a subset of people working in big tech but what about minorities, less privileged, lower income, or anyone else? Those opinions, thoughts, and ideas become lost. The current big AI names shut out the voices of the many and only reaping the data of them.
+Deepseek was a big win for the open source community. As long as there is no risk to be closed source eventually, we should FULLY support open source LLMs rather than closed source ones. Closed source AI is DANGEROUS to everyone. Only the few colossi in tech have control of the current AI and this puts power in a small condensed space with little say for change from anyone. What do you think they're doing with our data? The large populace has zero say in how AI is developed, coded, engineered, and designed. It's only informed and controlled by a subset of people working in big tech but what about minorities, less privileged, lower income, or anyone else? Those opinions, thoughts, and ideas become lost. The current big AI names shut out the voices of the many and only reaping the data of them.
 
 
 
 ### Awareness
 Awareness is the first step. We are a part of the cog in the big machine but don't let that stop us from thinking we can make some kind of impact. If you work for one of these tech giants that are leading AI, understand that you are in a position of privilege and power compared to others. Even the smallest of decisions impact their AI and data centers. Make the change where you can. We think on a day-to-day how we can work TOGETHER with AI in the current design landscape in our companies but not about each other.
 
+## Laws
+Laws are slow to keep up with the rapid pace of technological advancement. These laws could set regulations around what information can or cannot be used AI. There is no regulation around the monopoly around certain products like AWS, Google Search, Windows OS, Chromium, the iPhone, and more. As a society, we prioritize what works and what's easy. In turn, we dismiss individualism unintentionally.
 
 
 Again, this is coming from a realistic standpoint because I know that everyone needs to make money and there are no plans to stop for many companies. As long as we are fully aware of the decisions we are making on a day-to-day, we can have better discussions and decisions within teams. Maybe even taking a step back.
