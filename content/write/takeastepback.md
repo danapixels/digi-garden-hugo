@@ -6,7 +6,7 @@ tags = ['write', 'opinions', 'ai']
 listIcon = "/writing.png"
 teaser = "My overall takeaway on AI as a Designer"
 +++
-
+<br><br>
 ![Exhausted face](/ai0.png)
 ## Exhaustion
 As designers, we are overloaded with conversations about AI (artificial intelligence). Whether, it's being a part of a workshop, creating features, new products, or giving input into a larger philosophical discussion. Many of us are exhausted, not all user problems can be solved through the use of AI nor is it an end all be all. 
@@ -17,7 +17,7 @@ After consuming tons and tons of AI content, I've decided to formulate my overal
 
 
 
-
+<br><br>
 ![Notifications](/ai1.png)
 ## The current state: The slop and slog
 I'm sure I'm not the only one being spammed with content on LinkedIn, podcasts, or articles (maybe even this blog post counts!) with designer's takes on AI of the positive and the negative societal aspects. 
@@ -32,14 +32,14 @@ and all these other topics I'm sure you're familiar with. But what are the real 
 
 
 
-
+<br><br>
 ![You vs AI](/ai3.png)
 ## Possible impending future: Super intelligence
 The fear is misplaced. AI is a tool for us to use as of right now in its current state, not to replace us. AI super intelligence is what will replace all of us, not just designers. It goes beyond the "event horizon" where something is so mystified beyond our understanding we can no longer predict the future. The gap between us and super intelligence is like us and cats. So what does this mean? As easily as it can reply a "hello" to you, it can also think of a million ways replace humans or kill humans in ways we cannot even conceptualize because again, the gap between us and super intelligence is humans and cats. This is extremely dangerous.
 
 
 
-
+<br><br>
 ![The earth](/ai4.png)
 ## What can we affect: AI safety & sustainability
 ### Safety
@@ -52,7 +52,7 @@ Ensure work being done is meaningful. If the user experience involves others wan
 
 
 
-
+<br><br>
 ![Us vs AI](/ai5.png)
 ## My personal direction forward
 At the end of the day, everyone needs to work to put money on the table. There won't be anymore places to work if we reach super intelligence. These are my last personal thoughts on how we can move forward as designers.
