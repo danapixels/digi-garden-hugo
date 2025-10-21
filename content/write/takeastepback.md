@@ -39,9 +39,9 @@ and all these other topics I'm sure you're familiar with. But what are the real 
 ---
 ![You vs AI](/ai3.png)
 ## Possible impending future: Super intelligence
-The fear is misplaced. AI is a tool for us to use as of right now in its current state, not to replace us. AI super intelligence is what will replace all of us, not just designers. It goes beyond the "event horizon" where something is so mystified beyond our understanding we can no longer predict the future. The gap between us and super intelligence is like us and cats. So what does this mean? As easily as it can reply a "hello" to you, it can also think of a million ways replace humans or kill humans in ways we cannot even conceptualize because again, the gap between us and super intelligence is humans and cats. This is extremely dangerous.
+The fear is misplaced. AI is a tool for us to use as of right now in its current state, not to replace us. AI super intelligence is what will replace all of us, not just designers. If AI hits the "event horizon" where something is so mystified beyond our understanding we can no longer predict the future. The gap between us and super intelligence is like us and cats. So what does this mean? As easily as it can reply a "hello" to you, it can also think of a million ways replace humans or kill humans in ways we cannot even conceptualize because again, the gap between us and super intelligence is humans and cats. This is extremely dangerous.
 
-Although, I don't know if this is the end state for us. I think there will be some kind of middle ground for us not a completely utopian future or dystopian.
+Although, I don't know if this is the end state for us. I think there will be some kind of middle ground for us not a completely utopian future or dystopian. I also do not think we are close to an event horizon but we could be! This is just speculation.
 
 
 
