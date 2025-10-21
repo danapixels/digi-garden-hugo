@@ -1,6 +1,6 @@
 +++
 title = 'AI Thoughts'
-date = 2025-10-21T09:00:00-07:00
+date = 2025-10-20T09:00:00-07:00
 draft = false
 tags = ['write', 'opinions', 'ai']
 listIcon = "/writing.png"
