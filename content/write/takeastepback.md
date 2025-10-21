@@ -31,6 +31,7 @@ Some of it bothers me because it's superficial at most such as:
 - Can I leverage this into my current workflow to make me a better designer?
 
 
+
 and all these other topics I'm sure you're familiar with. But what are the real implications of AI looking through the lens of a 5, 10, 50, or 100 year plan? We all know that AI is replacing jobs, stealing artist's work, and creating fear of future for many but all I have been seeing are designers working with the cards in front of them and not thinking about the cards still in the deck. 
 
 
