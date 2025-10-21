@@ -73,7 +73,7 @@ Deepseek was a big win for the open source community. As long as there is no ris
 ### Awareness
 Awareness is the first step. We are a part of the cog in the big machine but don't let that stop us from thinking we can make some kind of impact. If you work for one of these tech giants that are leading AI, understand that you are in a position of privilege and power compared to others. Even the smallest of decisions impact their AI and data centers. Make the change where you can. We think on a day-to-day how we can work TOGETHER with AI in the current design landscape in our companies but not about each other.
 
-## Laws
+### Laws
 Laws are slow to keep up with the rapid pace of technological advancement. These laws could set regulations around what information can or cannot be used AI. There is no regulation around the monopoly around certain products like AWS, Google Search, Windows OS, Chromium, the iPhone, and more. As a society, we prioritize what works and what's easy. In turn, we dismiss individualism unintentionally.
 
 
