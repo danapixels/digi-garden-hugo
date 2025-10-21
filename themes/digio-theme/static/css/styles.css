@@ -647,6 +647,10 @@ video {
   flex-direction: column;
 }
 
+.items-start {
+  align-items: flex-start;
+}
+
 .items-center {
   align-items: center;
 }
@@ -841,7 +845,7 @@ a {
 }
 
 p {
-  margin-bottom: 1rem;
+  margin-bottom: 1.25rem;
 }
 
 h1 {
