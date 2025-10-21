@@ -16,6 +16,8 @@ As designers, we are overloaded with conversations about AI (artificial intellig
 After consuming tons and tons of AI content, I've decided to formulate my overall thoughts and grievances with the state of our current design community.
 
 
+
+
 ![Notifications](/ai1.png)
 ## The current state: The slop and slog
 I'm sure I'm not the only one being spammed with content on LinkedIn, podcasts, or articles (maybe even this blog post counts!) with designer's takes on AI of the positive and the negative societal aspects. 
@@ -29,9 +31,13 @@ Some of it bothers me because it's superficial at most such as:
 and all these other topics I'm sure you're familiar with. But what are the real implications of AI looking through the lens of a 5, 10, or 50 year plan? We all know that AI is replacing jobs, stealing artist's work, and creating fear of future for many but all I have been seeing are designers working with the cards in front of them and not with the cards still in the deck. 
 
 
+
+
 ![You vs AI](/ai3.png)
 ## Possible impending future: Super intelligence
 The fear is misplaced. AI is a tool for us to use as of right now in its current state, not to replace us. AI super intelligence is what will replace all of us, not just designers. It goes beyond the "event horizon" where something is so mystified beyond our understanding we can no longer predict the future. The gap between us and super intelligence is like us and cats. So what does this mean? As easily as it can reply a "hello" to you, it can also think of a million ways replace humans or kill humans in ways we cannot even conceptualize because again, the gap between us and super intelligence is humans and cats. This is extremely dangerous.
+
+
 
 
 ![The earth](/ai4.png)
@@ -43,6 +49,8 @@ Going into work tomorrow, if you're working on anything AI related (I know every
 
 ### Sustainability
 Ensure work being done is meaningful. If the user experience involves others wanting to speak to customer service over the phone because they don't want to use the agent anymore or the chat is poorly built where questions aren't being properly answered, this means the solution needs to be revisited. The environmental concerns of data centers should not be ignored and we shouldn't create solutions to appease a check mark for the quarter.
+
+
 
 
 ![Us vs AI](/ai5.png)
