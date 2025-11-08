@@ -20,25 +20,62 @@
     <img src="/recent-work.png" alt="recent-work">
   </div>
   <div class="mx-auto w-full max-w-4xl px-4 py-4">
+    {{/* Get regular posts */}}
     {{ $candidates := where site.RegularPages "Type" "in" (slice "posts" "post" "blog") }}
-    {{ $posts := first 2 (sort $candidates "Date" "desc") }}
-    {{ if lt (len $posts) 2 }}
-      {{ $posts = first 2 (sort site.RegularPages "Date" "desc") }}
+    {{ if lt (len $candidates) 2 }}
+      {{ $candidates = site.RegularPages }}
     {{ end }}
+    
+    {{/* Get external links from all section pages */}}
+    {{ $allItems := slice }}
+    {{ range $candidates }}
+      {{ $allItems = $allItems | append (dict "type" "post" "data" . "sortDate" .Date) }}
+    {{ end }}
+    
+    {{/* Collect external links from section pages */}}
+    {{ range site.Sections }}
+      {{ $externalLinks := .Params.externalLinks }}
+      {{ if $externalLinks }}
+        {{ range $externalLinks }}
+          {{ $parsedDate := time .date }}
+          {{ $allItems = $allItems | append (dict "type" "link" "data" . "sortDate" $parsedDate) }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    
+    {{/* Sort all items by date (newest first) and take first 2 */}}
+    {{ $allItems = sort $allItems "sortDate" "desc" }}
+    {{ $recentItems := first 2 $allItems }}
+    
     <div class="grid lg:grid-cols-2 gap-4">
-      {{ range $posts }}
-        <div class="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-6 transition-all duration-150 hover:border-pink-300">
-          <h3 class="font-semibold flex items-center gap-2">
-            {{ with .Params.listIcon }}<img src="{{ . }}" alt="">{{ end }}
-            {{ .LinkTitle }}
-          </h3>
-          {{ with .Params.teaser }}
-            <p><em>{{ . }}</em></p>
-          {{ else }}
-            {{ with .Params.description }}<p><em>{{ . }}</em></p>{{ else }}<p><em>{{ .Summary }}</em></p>{{ end }}
-          {{ end }}
-          <a href="{{ .RelPermalink }}" class="self-start text-sm text-white underline">Read more →</a>
-        </div>
+      {{ range $recentItems }}
+        {{ if eq .type "post" }}
+          {{ $post := .data }}
+          <div class="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-6 transition-all duration-150 hover:border-pink-300">
+            <h3 class="font-semibold flex items-center gap-2">
+              {{ with $post.Params.listIcon }}<img src="{{ . }}" alt="">{{ end }}
+              {{ $post.LinkTitle }}
+            </h3>
+            {{ with $post.Params.teaser }}
+              <p><em>{{ . }}</em></p>
+            {{ else }}
+              {{ with $post.Params.description }}<p><em>{{ . }}</em></p>{{ else }}<p><em>{{ $post.Summary }}</em></p>{{ end }}
+            {{ end }}
+            <a href="{{ $post.RelPermalink }}" class="self-start text-sm text-white underline">Read more →</a>
+          </div>
+        {{ else if eq .type "link" }}
+          {{ $link := .data }}
+          <div class="not-prose flex cursor-default flex-col space-y-4 rounded-lg border border-white p-6 transition-all duration-150 hover:border-pink-300">
+            <h3 class="font-semibold flex items-center gap-2">
+              {{ with $link.icon }}<img src="{{ . }}" alt="">{{ end }}
+              {{ $link.title }}
+            </h3>
+            {{ with $link.teaser }}
+              <p><em>{{ . }}</em></p>
+            {{ end }}
+            <a href="{{ $link.url }}" target="_blank" rel="noopener noreferrer" class="self-start text-sm text-white underline">Read more →</a>
+          </div>
+        {{ end }}
       {{ end }}
     </div>
   </div>

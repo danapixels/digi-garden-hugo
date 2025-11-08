@@ -66,7 +66,7 @@ At the end of the day, everyone needs to work to put money on the table. There w
 
 
 ### Open-source AI
-Deepseek was a big win for the open source community. As long as there is no risk to be closed source eventually, we should FULLY support open source LLMs rather than closed source ones. Closed source AI is DANGEROUS to everyone. Only the few colossi in tech have control of the current AI and this puts power in a small condensed space with little say for change from anyone. What do you think they're doing with our data? The large populace has zero say in how AI is developed, coded, engineered, and designed. It's only informed and controlled by a subset of people working in big tech but what about minorities, less privileged, lower income, or anyone else? Those opinions, thoughts, and ideas become lost. The current big AI names shut out the voices of the many and only reaping the data of them.
+Deepseek was a big win for the open source community. As long as there is no risk to be closed source eventually, we should FULLY support open source LLMS (and AIs) rather than closed source ones. Closed source AI is DANGEROUS to everyone. Only the few colossi in tech have control of the current AI and this puts power in a small condensed space with little say for change from anyone. What do you think they're doing with our data? The large populace has zero say in how AI is developed, coded, engineered, and designed. It's only informed and controlled by a subset of people working in big tech but what about minorities, less privileged, lower income, or anyone else? Those opinions, thoughts, and ideas become lost. The current big AI names shut out the voices of the many and only reaping the data of them.
 
 
 
