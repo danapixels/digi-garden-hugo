@@ -7,7 +7,7 @@ listIcon = "/writing.png"
 teaser = "The state of designers today"
 +++
 
-##The beginning of the end
+## The beginning of the end
 You attend your 10,000th outing for your tech company and you hear about the classic kid talk, house repairs, weather updates, gossip, or AI. No one has mentioned anything that makes you raise an eyebrow. Does everyone fucking hike? Does everyone go rock climbing? What the fuck. All you can think about is how you want to go home and relax.
 
 
@@ -15,22 +15,36 @@ What happened to designers who aren't afraid to shit on leadership or openly rej
 
 
 ![Usual Suspects Line Up Scene](/usualsuspects.gif)
-##It begins
+
+---
+
+
+## It begins
 I remember I sighed at work and quietly said that I wanted to go home at 4:30 PM. My deskmates agreed. My manager at the time heard me and made an announcement that we shouldn't say those things in the office. I understand the sentiment of positivity but do we need to keep a facade of zero human emotions except happiness even at work? Doesn't everyone want to go home? Am I wrong here?
 
 
 I remember I attended a creative jam. I created the most corporate solution ever that had zero personality whatsoever but I thought our team nailed it. We lost to amazing ideas and I realized that maybe I've become a dead designer myself. I was putting my creativity and myself in a box to fit the corporate ideal. (No, I don't hike or rock climb)
 
+
+---
+
+
 ![Tech bro starter pack](/techbro.png)
-##Designer tech bros
+
+
+## Designer tech bros
 Many of us have been present for the shift within tech that revolves around designers having a seat at the table. This definitely isn't a bad thing but I have noticed a general tech culture arising. Tech has become a glorified goal for those graduating. A promise of a better life for some, an instant win ticket, validation of their hardwork, etc. The trade-off for this has been inauthenticity in craft and passion. Somewhere along the way, the authentic designer died, even in me.
 
 
 Earlier in my career, it felt like design and being a designer was rebellious and involved free thinkers but now there's a formal path, training, or boot camp and you can directly get hired into tech. Putting our thinking into a methodology AKA a box. AGAIN, bunch of positives there but I feel it changes the character and perspective of incoming professionals. You would think because of a privilege position there would be more time outside of work to develop your hobbies, characters, thoughts, and values. Nope.
 
+---
+
 
 ![If I don't see you, good morning, good afternoon, and good night](/truman.gif)
-##Why we're slowly becoming inauthentic
+
+
+## Why we're slowly becoming inauthentic
 To me, the whole benefit of designers having a seat at the table is bringing a wide array of perspectives. This is becomes lost because of fear of disrupting the status quo. We become so bogged down with stakeholder management, aligning teams, checking boxes for promtions that the spark disappears. We think of 10 iterations for 1 feature during work and we don't have time/energy to be creative outside of work. When was the last time you created something completely silly as an idea that didn't involve success metrics or user research?
 
 
