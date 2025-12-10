@@ -29,8 +29,7 @@ I remember I attended a creative jam. I created the most corporate solution ever
 ---
 
 
-![Tech bro starter pack](/techbro.png)
-<figcaption>https://www.reddit.com/r/starterpacks/comments/102lp66/the_tech_bro_starter_pack/</figcaption>
+![Tech bro starter pack](/techbro.png "https://www.reddit.com/r/starterpacks/comments/102lp66/the_tech_bro_starter_pack/")
 
 
 ## Designer tech bros
