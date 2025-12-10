@@ -15,7 +15,7 @@ What happened to designers who aren't afraid to shit on leadership or openly rej
 
 
 ![Usual Suspects Line Up Scene](/usualsuspects.gif)
-{{< caption >}}The [Line Up Scene](https://www.youtube.com/watch?v=Dp5YwZCGpm0) from The Usual Suspects{{< /caption >}}
+<figcaption>The <a href="https://www.youtube.com/watch?v=Dp5YwZCGpm0">Line Up Scene</a> from The Usual Suspects</figcaption>
 
 
 ---
