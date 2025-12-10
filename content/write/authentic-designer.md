@@ -14,9 +14,10 @@ You attend your 10,000th outing for your tech company and you hear about the cla
 What happened to designers who aren't afraid to shit on leadership or openly reject ideas that don't make sense. What happened to my crash outs? Maybe because I was a part of a team who had a lot of weird characters that were accquired into a large tech company that this is who I looked up to. Did we become corporate goons? Did we become complacent and pacified by big pay checks? What happened to the unhinged, opinionated, against-the-grain, anti-conforming designers I know?
 
 
-![Usual Suspects Line Up Scene](/usualsuspects.gif)
-<figcaption>The <a href="https://www.youtube.com/watch?v=Dp5YwZCGpm0">Line Up Scene</a> from The Usual Suspects</figcaption>
-
+<figure>
+  <img src="/public/usualsuspects.gif" alt="Usual Suspects Line Up Scene"/>
+  <figcaption>The Usual Suspects line up scene clip from https://www.youtube.com/watch?v=Dp5YwZCGpm0"</figcaption>
+</figure>
 
 ---
 
@@ -31,7 +32,10 @@ I remember I attended a creative jam. I created the most corporate solution ever
 ---
 
 
-![Tech bro starter pack](/techbro.png "Originally from https://www.reddit.com/r/starterpacks/comments/102lp66/the_tech_bro_starter_pack/")
+<figure>
+  <img src="/public/techbro.png" alt="Tech bro starter pack"/>
+  <figcaption>Originally from https://www.reddit.com/r/starterpacks/comments/102lp66/the_tech_bro_starter_pack</figcaption>
+</figure>
 
 
 ## Designer tech bros
@@ -43,7 +47,10 @@ Earlier in my career, it felt like design and being a designer was rebellious an
 ---
 
 
-![If I don't see you, good morning, good afternoon, and good night](/truman.gif "Clipped pulled from https://www.youtube.com/watch?v=CjSzCuC7tOI")
+<figure>
+  <img src="/public/truman.gif" alt="If I don't see you, good morning, good afternoon, and good night"/>
+  <figcaption>Clipped pulled from https://www.youtube.com/watch?v=CjSzCuC7tOI</figcaption>
+</figure>
 
 
 ## Why we're slowly becoming inauthentic
