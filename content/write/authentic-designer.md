@@ -15,6 +15,8 @@ What happened to designers who aren't afraid to shit on leadership or openly rej
 
 
 ![Usual Suspects Line Up Scene](/usualsuspects.gif)
+{{< caption >}}The [Line Up Scene](https://www.youtube.com/watch?v=Dp5YwZCGpm0) from The Usual Suspects{{< /caption >}}
+
 
 ---
 
@@ -29,7 +31,7 @@ I remember I attended a creative jam. I created the most corporate solution ever
 ---
 
 
-![Tech bro starter pack](/techbro.png "https://www.reddit.com/r/starterpacks/comments/102lp66/the_tech_bro_starter_pack/")
+![Tech bro starter pack](/techbro.png "Originally from https://www.reddit.com/r/starterpacks/comments/102lp66/the_tech_bro_starter_pack/")
 
 
 ## Designer tech bros
@@ -41,7 +43,7 @@ Earlier in my career, it felt like design and being a designer was rebellious an
 ---
 
 
-![If I don't see you, good morning, good afternoon, and good night](/truman.gif)
+![If I don't see you, good morning, good afternoon, and good night](/truman.gif "Clipped pulled from https://www.youtube.com/watch?v=CjSzCuC7tOI")
 
 
 ## Why we're slowly becoming inauthentic
