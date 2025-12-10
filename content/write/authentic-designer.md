@@ -15,7 +15,7 @@ What happened to designers who aren't afraid to shit on leadership or openly rej
 
 
 <figure>
-  <img src="/static/usualsuspects.gif" alt="Usual Suspects Line Up Scene"/>
+  <img src="/usualsuspects.gif" alt="Usual Suspects Line Up Scene"/>
   <figcaption>The Usual Suspects line up scene clip from https://www.youtube.com/watch?v=Dp5YwZCGpm0"</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ I remember I attended a creative jam. I created the most corporate solution ever
 
 
 <figure>
-  <img src="/static/techbro.png" alt="Tech bro starter pack"/>
+  <img src="/techbro.png" alt="Tech bro starter pack"/>
   <figcaption>Originally from https://www.reddit.com/r/starterpacks/comments/102lp66/the_tech_bro_starter_pack</figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ Earlier in my career, it felt like design and being a designer was rebellious an
 
 
 <figure>
-  <img src="/static/truman.gif" alt="If I don't see you, good morning, good afternoon, and good night"/>
+  <img src="/truman.gif" alt="If I don't see you, good morning, good afternoon, and good night"/>
   <figcaption>Clipped pulled from https://www.youtube.com/watch?v=CjSzCuC7tOI</figcaption>
 </figure>
 
