@@ -30,6 +30,7 @@ I remember I attended a creative jam. I created the most corporate solution ever
 
 
 ![Tech bro starter pack](/techbro.png)
+<figcaption>https://www.reddit.com/r/starterpacks/comments/102lp66/the_tech_bro_starter_pack/</figcaption>
 
 
 ## Designer tech bros
@@ -51,4 +52,4 @@ To me, the whole benefit of designers having a seat at the table is bringing a w
 Inauthenticity starts with conforming and slowly ends with draining every creative thought you have.
 
 
-My point here is I can't blame designers. I can only blame the system they put us through. Did adhering to a design system and rigid design processes make us forget to think on our feet?  Did the competitive job market cause us to become a template blob that's easier for recruiters and companies to digest so we even have a chance to make a living? Who knows.
+My point here is I can't blame designers. I can only blame the system they put us through. Did adhering to a design system and rigid design processes make us forget to think on our feet? Did the competitive job market cause us to become a template blob that's easier for recruiters and companies to digest so we even have a chance to make a living? Who knows.
