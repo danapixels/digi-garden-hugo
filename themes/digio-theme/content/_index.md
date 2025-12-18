@@ -8,6 +8,6 @@ statusImage = "/status.png"
 statusText = "Neopets, working on READMEs, and chillin'."
 
 watchingImage = "/watching.png"
-watchingText = "GitLab CI Deep Dive Presentation"
-watchingUrl = "https://www.youtube.com/watch?v=ZVUbmVac-m8&list=PL05JrBw4t0KorkxIFgZGnzzxjZRCGROt_&index=28"
+watchingText = "Building the PERFECT Linux PC with Linus Torvalds"
+watchingUrl = "https://youtu.be/mfv0V1SxbNA?si=03FcS2ywPRg8T9Bh"
 +++
