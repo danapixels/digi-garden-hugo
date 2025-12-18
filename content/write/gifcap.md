@@ -9,7 +9,7 @@ teaser = "Behind the scenes for animating gifcap.dev gif"
 
 ## Mini tutorial
 
-From a glance, you aren't able to understand what gifcap does so how do we get users to understand the usefulness of ![gifcap](https://gifcap.dev/)?
+From a glance, you aren't able to understand what gifcap does so how do we get users to understand the usefulness of [gifcap](https://gifcap.dev/)?
 
 
 I use this tool a lot for my portfolio to capture interactions so I wanted to show my support by contributing something!
