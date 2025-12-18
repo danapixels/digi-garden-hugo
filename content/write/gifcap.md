@@ -1,5 +1,5 @@
 +++
-title = 'Creating gifcap.dev's gif
+title = 'Creating gifcap.dev's gif'
 date = 2025-12-18T09:00:00-07:00
 draft = false
 tags = ['write', 'design']
