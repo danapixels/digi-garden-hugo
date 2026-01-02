@@ -117,7 +117,7 @@ input[type="checkbox"]:checked {
 }
 
 input[type="email"] {
-  color: #000000;
+  color: #000000 !important;
 }
 
 ul {
