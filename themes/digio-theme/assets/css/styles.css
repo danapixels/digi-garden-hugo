@@ -116,6 +116,10 @@ input[type="checkbox"]:checked {
   background-image: url('/checked.png');
 }
 
+input[type="email"] {
+  color: #000000;
+}
+
 ul {
   list-style: none;
   padding-left: 1rem;
