@@ -5,7 +5,7 @@ introTitle = "Hi! My name is Dana."
 introBody = "This is where I document random things like writings, my attempts at trying to bring more awareness of open source to the UI/UX community, and randomness. Enjoy (or not)!"
 
 statusImage = "/status.png"
-statusText = "Working on my blog's newsletter!"
+statusText = "Working on fixing portfolio and git for designers 1.0 :D "
 
 watchingImage = "/watching.png"
 watchingText = "Building the PERFECT Linux PC with Linus Torvalds"

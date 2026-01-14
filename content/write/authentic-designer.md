@@ -40,7 +40,7 @@ I remember I attended a creative jam. I created the most corporate solution ever
 Many of us have been present for the shift within tech that revolves around designers having a seat at the table. This definitely isn't a bad thing but I have noticed a general tech culture arising. Tech has become a glorified goal for those graduating. A promise of a better life for some, an instant win ticket, validation of their hardwork, etc. The trade-off for this has been inauthenticity in craft and passion. Somewhere along the way, the authentic designer died, even in me.
 
 
-Earlier in my career, it felt like design and being a designer was rebellious and involved free thinkers but now there's a formal path, training, or boot camp and you can directly get hired into tech. Putting our thinking into a methodology AKA a box. AGAIN, bunch of positives there but I feel it changes the character and perspective of incoming professionals. You would think because of a privilege position there would be more time outside of work to develop your hobbies, characters, thoughts, and values. Nope.
+Earlier in my career, it felt like design and being a designer was rebellious and involved free thinkers but now there's a formal path, training, or boot camp and you can directly get hired into tech. Putting our thinking into a methodology AKA a box. AGAIN, bunch of positives there but I feel it changes the character and perspective of incoming professionals. You would think because of a privileged position there would be more time outside of work to develop your hobbies, characters, thoughts, and values. Nope.
 
 ---
 
