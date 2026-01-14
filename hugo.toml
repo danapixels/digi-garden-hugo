@@ -2,3 +2,7 @@ baseURL = 'https://danablog.dev/'
 languageCode = 'en-us'
 title = 'digi garden'
 theme = 'digio-theme'
+
+[services]
+  [services.rss]
+    limit = 1
