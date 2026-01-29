@@ -66,9 +66,9 @@
           {{ if not $teaser }}{{ $teaser = $post.Summary }}{{ end }}
 
           <a href="{{ $post.RelPermalink }}" class="block">
-            <article class="not-prose flex cursor-pointer flex-col space-y-4 rounded-lg border border-transparent p-6 transition-all duration-150 hover:border-white">
+            <article class="not-prose flex cursor-pointer flex-col space-y-4 rounded-lg border border-transparent p-6 transition-all duration-150 hover:border-pink-300">
               <h2 class="text-xl font-semibold">
-                <span class="text-white flex items-start">
+                <span class="text-white flex items-center">
                   {{ with $icon }}<img src="{{ . }}" alt="" class="mr-2">{{ end }}
                   {{ $post.LinkTitle }}
                 </span>
@@ -82,9 +82,9 @@
         {{ else if eq .type "link" }}
           {{ $link := .data }}
           <a href="{{ $link.url }}" target="_blank" rel="noopener noreferrer" class="block">
-            <article class="not-prose flex cursor-pointer flex-col space-y-4 rounded-lg border border-transparent p-6 transition-all duration-150 hover:border-white">
+            <article class="not-prose flex cursor-pointer flex-col space-y-4 rounded-lg border border-transparent p-6 transition-all duration-150 hover:border-pink-300">
               <h2 class="text-xl font-semibold">
-                <span class="text-white flex items-start">
+                <span class="text-white flex items-center">
                   <img src="{{ $link.icon }}" alt="" class="mr-2">
                   {{ $link.title }}
                 </span>

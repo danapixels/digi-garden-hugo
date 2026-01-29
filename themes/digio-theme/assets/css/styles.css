@@ -26,10 +26,40 @@ footer {
 a {
   color: #ffffff;
   text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+a:hover:not(.block):not(.not-prose) {
+  color: #f9a8d4;
+}
+
+p a,
+li a:not(nav a),
+article a:not(.block) {
+  text-decoration: underline;
+}
+
+a.block,
+a.not-prose {
+  text-decoration: none;
+}
+
+a.block:hover,
+a.not-prose:hover {
+  color: inherit;
 }
 
 p {
-  margin-bottom: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+blockquote {
+  border-left: 2px solid #ffffff;
+  padding-left: 1.5rem;
+  margin-left: 0;
+  margin-bottom: 1rem;
+  font-style: italic;
+  color: #ffffff;
 }
 
 h1 {
@@ -45,8 +75,6 @@ h2 {
   margin-bottom: 0.5rem;
   margin-top: 0.5rem;
 }
-
-/* headings in posts should have more top margin */
 .flex-1 h2,
 .flex-1 h3,
 .flex-1 h4,
@@ -126,12 +154,14 @@ input[type="checkbox"]:checked {
 }
 
 input[type="email"] {
+  color: #000000 !important;
   color: #000000;
 }
 
 ul {
   list-style: none;
   padding-left: 1rem;
+  margin-bottom: 1rem;
 }
 
 ul li {
@@ -143,7 +173,7 @@ ul li::before {
   content: "";
   position: absolute;
   left: 0;
-  top: 0.4em;
+  top: 0.7em;
   width: 8px;
   height: 8px;
   background-image: url('/sparkle.png');
@@ -160,6 +190,16 @@ ul li:has(input[type="checkbox"])::before {
   display: none;
 }
 
+ol {
+  list-style: decimal;
+  padding-left: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+ol li {
+  position: relative;
+}
+
 nav ul {
   list-style: none;
   padding-left: 0;
@@ -167,4 +207,12 @@ nav ul {
 
 nav ul li::before {
   display: none;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #f9a8d4;
 }
